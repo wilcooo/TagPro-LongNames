@@ -21,7 +21,7 @@ tagpro.ready(function(){
     tagpro.renderer.veryPrettyText = function(text, color) {
 
         var canvas = document.createElement("canvas");
-        canvas.width = 16 * text.length;   //   <<<< This was 128, so 16 pixels per character should be plenty
+        canvas.width = 32 + 16 * text.length;   //   <<<< This was 128, so 16 pixels per character should be plenty
         canvas.height = 32;
         var context = canvas.getContext("2d");
 
