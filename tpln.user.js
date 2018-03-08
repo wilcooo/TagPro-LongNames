@@ -2,7 +2,7 @@
 // @name         TagPro Long Names
 // @description  Don't cut of balls' awefully long names like @@@@@@@@@@@@
 // @author       Ko
-// @version      1.0
+// @version      1.1
 // @include      *.koalabeast.com:*
 // @include      *.jukejuice.com:*
 // @include      *.newcompte.fr:*
